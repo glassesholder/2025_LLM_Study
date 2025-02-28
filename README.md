@@ -4,6 +4,6 @@
 <br>
 [25.02.28 : 카카오 Kanana / Openai GPT-4.5 리뷰]
 <br>
-참고 기사
-1. "https://www.aitimes.com/news/articleView.html?idxno=168364"
+*참고 기사<br>
+1. "https://www.aitimes.com/news/articleView.html?idxno=168364"<br>
 2. "https://www.aitimes.com/news/articleView.html?idxno=168378"
